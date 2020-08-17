@@ -1,0 +1,12 @@
+body {
+	background-color: black;
+	color: #fff;
+}
+h1{
+	text-align: center;
+}
+img{
+	width: 400px;
+	margin: 20px;
+	height: auto;
+}
